@@ -1,4 +1,4 @@
-[![Build Status](https://dev.azure.com/bell999/AZ400review/_apis/build/status%2Ftaku999.js-e2e-express-server?branchName=azure-pipelines)](https://dev.azure.com/bell999/AZ400review/_build/latest?definitionId=65&branchName=azure-pipelines)
+[![Build Status](https://dev.azure.com/bell999/AZ400review/_apis/build/status%2Ftaku999.js-e2e-express-server%20(66)?branchName=main)](https://dev.azure.com/bell999/AZ400review/_build/latest?definitionId=66&branchName=main)
 ---
 page_type: sample
 languages:
